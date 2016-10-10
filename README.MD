@@ -32,4 +32,4 @@
 * 默认情况下，有两种resolutions的图片可以产生一些有趣的现象。例如，当你导入一个retina @2x版本的图片时，普通版的和Retina版的将会合并成一个多resolution的TIFF（标签图像文件格式，Tagged Image File Format）。这不是一件好事。搜索hidpi将COMBINE_HIDPI_IMAGES设置为NO。
 * 参考[http://www.cocoachina.com/ios/20150127/11022.html](http://www.cocoachina.com/ios/20150127/11022.html)
 
-6.使用本项目生成的.framework的测试项目[TestWXFramework](http://www.cocoachina.com/ios/20150127/11022.html)
+6.使用本项目生成的.framework的测试项目[TestWXFramework](https://github.com/xsailor511/TestWXFramework)
