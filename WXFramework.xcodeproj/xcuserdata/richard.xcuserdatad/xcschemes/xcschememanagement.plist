@@ -4,20 +4,45 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MyAggregate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>WXFramework.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>WXFrameworkResources.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>796CF6A21DA9D39200F850AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>79CDE4A61DA8D938007D5DB7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>79CDE4AF1DA8D939007D5DB7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>79CDE5321DA928A4007D5DB7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>79ECE8451DAA557800C1C039</key>
 		<dict>
 			<key>primary</key>
 			<true/>

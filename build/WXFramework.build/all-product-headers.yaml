@@ -1,0 +1,53 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/richard/workspace/iosProject3/WXFramework/build/Release-iphonesimulator/WXFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ButtonUtil.h",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/WXFramework/ButtonUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "LogHelper.h",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/WXFramework/LogHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "StoryBoardFirstViewController.h",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/WXFramework/StoryBoardFirstViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "WXFramework-Swift.h",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/build/Release-iphonesimulator/WXFramework.framework/Headers/WXFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "WXFramework.h",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/WXFramework/WXFramework.h"
+        },
+        {
+          'type': 'file',
+          'name': "WXViewController.h",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/WXFramework/WXViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/richard/workspace/iosProject3/WXFramework/build/Release-iphonesimulator/WXFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/richard/workspace/iosProject3/WXFramework/build/WXFramework.build/Release-iphonesimulator/WXFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
